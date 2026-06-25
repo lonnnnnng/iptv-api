@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://ghp.keleyaa.com/https://raw.githubusercontent.com/lonnnnnng/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-18 09:02:08
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-25 09:00:03
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -783,6 +783,8 @@ https://live.lalifeier.eu.org/sztv/szgj.m3u8?t=1780530612&key=60cb921c931c3fccaf
 https://live.lalifeier.eu.org/sztv/szgj.m3u8?t=1781129430&key=5d240a8c2e7c15ac195e34b703d511c9
 #EXTINF:-1 tvg-id="深圳国际" tvg-name="深圳国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳国际.png" group-title="☘️广东频道",深圳国际
 https://live.lalifeier.eu.org/sztv/szgj.m3u8?t=1781733985&key=3e9f96c2b534b164958fa185c3edeacf
+#EXTINF:-1 tvg-id="深圳国际" tvg-name="深圳国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳国际.png" group-title="☘️广东频道",深圳国际
+https://live.lalifeier.eu.org/sztv/szgj.m3u8?t=1782342739&key=4224fa4f854f0b71e045c8dc283a5ee5
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳都市.png" group-title="☘️广东频道",深圳都市
 http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=goM0o9&tk=zUr4K92Dl6kh
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳都市.png" group-title="☘️广东频道",深圳都市
@@ -799,24 +801,32 @@ https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1780530612&key=fa914c90a4225fc77
 https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1781129430&key=2199e5f0d764a9ffcf51dcc7a1a49c2b
 #EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳电视剧.png" group-title="☘️广东频道",深圳电视剧
 https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1781733985&key=74f4a67526dcc0955d6093b74f4511eb
+#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳电视剧.png" group-title="☘️广东频道",深圳电视剧
+https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1782342739&key=5a10dafd977b11dd8d52a7ce8a67d380
 #EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳少儿.png" group-title="☘️广东频道",深圳少儿
 https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1780530612&key=069908c09224027fe5620d58856c09e8
 #EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳少儿.png" group-title="☘️广东频道",深圳少儿
 https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1781129430&key=b1c3ca323c0a2fbec62f14a71c89cd0e
 #EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳少儿.png" group-title="☘️广东频道",深圳少儿
 https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1781733985&key=ca2cea351e2c9044a28f8f38382e055c
+#EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳少儿.png" group-title="☘️广东频道",深圳少儿
+https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1782342739&key=5c0a0cab311218fa434faf3348510b85
 #EXTINF:-1 tvg-id="深圳移动" tvg-name="深圳移动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳移动.png" group-title="☘️广东频道",深圳移动
 https://live.lalifeier.eu.org/sztv/szyd.m3u8?t=1780530612&key=70adeb1d16015cc3ed443fdfa0a276c7
 #EXTINF:-1 tvg-id="深圳移动" tvg-name="深圳移动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳移动.png" group-title="☘️广东频道",深圳移动
 https://live.lalifeier.eu.org/sztv/szyd.m3u8?t=1781129430&key=ae06b97d61794e51624ae681622c75d9
 #EXTINF:-1 tvg-id="深圳移动" tvg-name="深圳移动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳移动.png" group-title="☘️广东频道",深圳移动
 https://live.lalifeier.eu.org/sztv/szyd.m3u8?t=1781733985&key=e59002f5b3f21473e8cdd1ebba177f03
+#EXTINF:-1 tvg-id="深圳移动" tvg-name="深圳移动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳移动.png" group-title="☘️广东频道",深圳移动
+https://live.lalifeier.eu.org/sztv/szyd.m3u8?t=1782342739&key=82b6edb475812604d1d1667b70e0b91e
 #EXTINF:-1 tvg-id="宜和购物" tvg-name="宜和购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宜和购物.png" group-title="☘️广东频道",宜和购物
 https://live.lalifeier.eu.org/sztv/yhgw.m3u8?t=1780530612&key=255190a0eec35ac104d31524c22566bf
 #EXTINF:-1 tvg-id="宜和购物" tvg-name="宜和购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宜和购物.png" group-title="☘️广东频道",宜和购物
 https://live.lalifeier.eu.org/sztv/yhgw.m3u8?t=1781129430&key=e5a42821691ee76411e64ce623f8ca0d
 #EXTINF:-1 tvg-id="宜和购物" tvg-name="宜和购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宜和购物.png" group-title="☘️广东频道",宜和购物
 https://live.lalifeier.eu.org/sztv/yhgw.m3u8?t=1781733985&key=6b362ec4d05f80fe33015556ac0d5000
+#EXTINF:-1 tvg-id="宜和购物" tvg-name="宜和购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宜和购物.png" group-title="☘️广东频道",宜和购物
+https://live.lalifeier.eu.org/sztv/yhgw.m3u8?t=1782342739&key=d8ffcf1d30b5508313963ef87c76a79e
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头综合.png" group-title="☘️广东频道",汕头综合
 https://stream1.freetv.fun/shan-tou-zong-he-5.ctv
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头综合.png" group-title="☘️广东频道",汕头综合
@@ -865,10 +875,14 @@ https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-2.m3u8
 http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
 http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
+https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生.png" group-title="☘️浙江频道",浙江民生
 https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生.png" group-title="☘️浙江频道",浙江民生
 https://t.freetv.fun/live/zhe-jiang-min-sheng-4.m3u8
+#EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生.png" group-title="☘️浙江频道",浙江民生
+https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
 https://stream1.freetv.fun/zhe-jiang-xin-wen-5.m3u8
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
@@ -1107,6 +1121,8 @@ https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1780530612&key=c5bebbd343ad
 https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1781129430&key=89ccd30e2b04c50e19716293a45ae143
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海外语.png" group-title="☘️上海频道",上海外语
 https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1781733985&key=0ae621693413ec0183d6459358fdf4af
+#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海外语.png" group-title="☘️上海频道",上海外语
+https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1782342739&key=820e0e445318aaf3d5112065bb7d0a63
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
 https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-3.m3u8
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
@@ -1117,6 +1133,8 @@ https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1781129430&key=df0a77ac80d
 http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/xwzhhd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20260618080211&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=171.8.79.254&SecurityKey=20260618080211&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=41a55978e377d07a20e7478f31867510&sv=10004&ct=android
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
 https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1781733985&key=e6c55a450d8178edc1cb03499009aa08
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海第一财经.png" group-title="☘️上海频道",上海第一财经
+http://hlszymgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20260625080238&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20260625080238&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=53b2ff6f02f97eed855a8b14f94b0e53&sv=10004&ct=android
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海纪实.png" group-title="☘️上海频道",上海纪实
 https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-2.m3u8
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海纪实.png" group-title="☘️上海频道",上海纪实
@@ -1271,6 +1289,8 @@ http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 #EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南通新闻综合.png" group-title="☘️江苏频道",南通新闻综合
 http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20260618080214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=171.8.79.254&SecurityKey=20260618080214&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ce431fa2c6d41eeb1f2b8529a5ad731c&sv=10004&ct=android
+#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南通新闻综合.png" group-title="☘️江苏频道",南通新闻综合
+http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20260625080241&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=171.8.79.254&SecurityKey=20260625080241&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f1a711164f5386372bf9875484c18aeb&sv=10004&ct=android
 #EXTINF:-1 tvg-id="如东新闻综合" tvg-name="如东新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/如东新闻综合.png" group-title="☘️江苏频道",如东新闻综合
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 #EXTINF:-1 tvg-id="宜兴新闻" tvg-name="宜兴新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宜兴新闻.png" group-title="☘️江苏频道",宜兴新闻
@@ -1343,6 +1363,8 @@ https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1780530612&key=9335460391fa30e88c
 https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1781129430&key=c90b21b5a24acff7127077f5ec5f7476
 #EXTINF:-1 tvg-id="江苏体育" tvg-name="江苏体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏体育.png" group-title="☘️江苏频道",江苏体育
 https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1781733985&key=600c259ed7a7bc4200c13dffae064737
+#EXTINF:-1 tvg-id="江苏体育" tvg-name="江苏体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏体育.png" group-title="☘️江苏频道",江苏体育
+https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1782342739&key=d4b926a668dc4fe66c1c293b0fe31b56
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏城市.png" group-title="☘️江苏频道",江苏城市
 https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏城市.png" group-title="☘️江苏频道",江苏城市
@@ -1385,8 +1407,12 @@ https://lianshui-tv-hls.cm.jstv.com:443/lianshui-tv/lsxw.m3u8
 http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
 #EXTINF:-1 tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淮安新闻综合.png" group-title="☘️江苏频道",淮安新闻综合
 http://hlszymgsplive.miguvideo.com:8080/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20260618080213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=171.8.79.254&SecurityKey=20260618080213&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d3b57cb4e6c472ec0b41fb5175e4768c&sv=10004&ct=android
+#EXTINF:-1 tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淮安新闻综合.png" group-title="☘️江苏频道",淮安新闻综合
+http://mgsp-yx2.live.miguvideo.com:8088/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20260625080240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=171.8.79.254&SecurityKey=20260625080240&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=35f36e69a229a42b12bfe7fd132a739e&sv=10004&ct=android
 #EXTINF:-1 tvg-id="淮阴综合" tvg-name="淮阴综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淮阴综合.png" group-title="☘️江苏频道",淮阴综合
 https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+#EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/溧水新闻综合.png" group-title="☘️江苏频道",溧水新闻综合
+http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260625080242&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260625080242&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fe9fedce8bcc2c77622f76fa6ac01ce8&sv=10004&ct=android
 #EXTINF:-1 tvg-id="苏州文化生活" tvg-name="苏州文化生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/苏州文化生活.png" group-title="☘️江苏频道",苏州文化生活
 https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 #EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/苏州新闻综合.png" group-title="☘️江苏频道",苏州新闻综合
@@ -1413,6 +1439,8 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisd
 http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=a3210a569a9b9a3c96424a715c95d4a8&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20260617062039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=39.98.82.147&SecurityKey=20260617062039&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=72995e7ddea9cef91d94392a4b3cc859&ddCalcu=9752v89ac9xc5a3eb74dad2e9a394c9edf19&sv=10004&ct=android
 #EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/镇江新闻综合.png" group-title="☘️江苏频道",镇江新闻综合
 http://hlszymgsplive.miguvideo.com:8080/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20260618080215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=171.8.79.254&SecurityKey=20260618080215&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3cc53e1d37c431742f863d1f5baf1c56&sv=10004&ct=android
+#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/镇江新闻综合.png" group-title="☘️江苏频道",镇江新闻综合
+http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=83169fa6e27dbe43399887c36af15960&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20260624062055&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=39.98.78.225&SecurityKey=20260624062055&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8292c128dab174ff792d00182f1dfa99&ddCalcu=9892va9af2xdca11f2288d1a0b01d7249f7f&sv=10004&ct=android
 #EXTINF:-1 tvg-id="靖江新闻综合" tvg-name="靖江新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖江新闻综合.png" group-title="☘️江苏频道",靖江新闻综合
 http://ls.qingting.fm/live/23797.m3u8
 #EXTINF:-1 tvg-id="靖江新闻综合" tvg-name="靖江新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖江新闻综合.png" group-title="☘️江苏频道",靖江新闻综合
@@ -1927,12 +1955,16 @@ https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1780530612&key=e5cb9f81f7397d2beb
 https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1781129430&key=e20ce7a89181c47592ea91f9905f3c7e
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" group-title="☘️河南频道",河南都市
 https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1781733985&key=9be636f5ba90095dfd8880546c4d1a6a
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" group-title="☘️河南频道",河南都市
+https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1782342739&key=f9a53a488ef4410f4f7d3fa31534e2e3
 #EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南民生.png" group-title="☘️河南频道",河南民生
 https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1780530612&key=61e7fed737aaa0bc9ca06b34f97e3c37
 #EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南民生.png" group-title="☘️河南频道",河南民生
 https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1781129430&key=c65aa7ca041115dacc23dbac96e003b3
 #EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南民生.png" group-title="☘️河南频道",河南民生
 https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1781733985&key=b33a07abbc1831426625d35ef75cc119
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南民生.png" group-title="☘️河南频道",河南民生
+https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1782342739&key=aa774cfc5225924d5e9588f8d40b5b61
 #EXTINF:-1 tvg-id="沁阳新闻综合" tvg-name="沁阳新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/沁阳新闻综合.png" group-title="☘️河南频道",沁阳新闻综合
 https://stream1.freetv.fun/qin-yang-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/开封新闻综合.png" group-title="☘️河南频道",开封新闻综合
@@ -2093,6 +2125,8 @@ https://stream1.freetv.fun/shan-dong-xin-wen-1.m3u8
 https://stream1.freetv.fun/shan-dong-xin-wen-2.m3u8
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东教育.png" group-title="☘️山东频道",山东教育
 http://iptv.huuc.edu.cn/hls/sdetv.m3u8
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东教育.png" group-title="☘️山东频道",山东教育
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260625080245&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=171.8.79.254&SecurityKey=20260625080245&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=90abb4106c3fbe83db759240392ce926&sv=10004&ct=android
 #EXTINF:-1 tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东生活.png" group-title="☘️山东频道",山东生活
 http://ls.qingting.fm/live/60260.m3u8
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东体育.png" group-title="☘️山东频道",山东体育
@@ -2123,24 +2157,32 @@ https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1780530612&key=94c6b5a721c4e705b
 https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1781129430&key=611d5c98e84aa6f1ea5282ff1bbe0e7f
 #EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西影视.png" group-title="☘️山西频道",山西影视
 https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1781733985&key=75167c559651a67cbe935bdc6c113875
+#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西影视.png" group-title="☘️山西频道",山西影视
+https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1782342739&key=8ca79aff4a737bda7c506cbe312033a0
 #EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西文体生活.png" group-title="☘️山西频道",山西文体生活
 https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1780530612&key=e412269276ceec5bc54ae0cad13db06e
 #EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西文体生活.png" group-title="☘️山西频道",山西文体生活
 https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1781129430&key=8e1341cb501a6eb7704b6abec77e9511
 #EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西文体生活.png" group-title="☘️山西频道",山西文体生活
 https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1781733985&key=4de132d081849a39502dcca164a628c0
+#EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西文体生活.png" group-title="☘️山西频道",山西文体生活
+https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1782342739&key=df8c791048ffd909fd7bbf1d195008b8
 #EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西社会与法治.png" group-title="☘️山西频道",山西社会与法治
 https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1780530612&key=7cbd32dcaccdf71b8560d74d9570a104
 #EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西社会与法治.png" group-title="☘️山西频道",山西社会与法治
 https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1781129430&key=b4161946e71631f8074181fc8f01bb57
 #EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西社会与法治.png" group-title="☘️山西频道",山西社会与法治
 https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1781733985&key=02c0e856fed0a0fcd3e57cff0f7629dd
+#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西社会与法治.png" group-title="☘️山西频道",山西社会与法治
+https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1782342739&key=beb16b629af06d78aa34a0dc69a86259
 #EXTINF:-1 tvg-id="山西经济" tvg-name="山西经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西经济.png" group-title="☘️山西频道",山西经济
 https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1780530612&key=a6b52f208334c62f38bfa4f51423f87d
 #EXTINF:-1 tvg-id="山西经济" tvg-name="山西经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西经济.png" group-title="☘️山西频道",山西经济
 https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1781129430&key=c031eb2c2d3178e6cd4ea8d39ae2ed13
 #EXTINF:-1 tvg-id="山西经济" tvg-name="山西经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西经济.png" group-title="☘️山西频道",山西经济
 https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1781733985&key=0273b0ee96968e7205776f88c8a919ee
+#EXTINF:-1 tvg-id="山西经济" tvg-name="山西经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西经济.png" group-title="☘️山西频道",山西经济
+https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1782342739&key=2002d60fcc2e65b93b35de654b53520d
 #EXTINF:-1 tvg-id="武乡新闻综合" tvg-name="武乡新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武乡新闻综合.png" group-title="☘️山西频道",武乡新闻综合
 https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 tvg-id="武乡新闻综合" tvg-name="武乡新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武乡新闻综合.png" group-title="☘️山西频道",武乡新闻综合
@@ -2181,6 +2223,8 @@ https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1780530612&key=38e726bfdcb89b4d
 https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1781129430&key=d197f21b683f5264634ceea8d90a41c8
 #EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽经济生活.png" group-title="☘️安徽频道",安徽经济生活
 https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1781733985&key=467a2c4b20141a19120989ac20859c2b
+#EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽经济生活.png" group-title="☘️安徽频道",安徽经济生活
+https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1782342739&key=a9ab6be93da19529b6c4e71f744c54cb
 #EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽综艺体育.png" group-title="☘️安徽频道",安徽综艺体育
 https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
 #EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽综艺体育.png" group-title="☘️安徽频道",安徽综艺体育
@@ -2255,18 +2299,24 @@ https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1780530612&key=de5862cc62b536265
 https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1781129430&key=576f1c417ccf91b855eff1bb0009b659
 #EXTINF:-1 tvg-id="吉林都市" tvg-name="吉林都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林都市.png" group-title="☘️吉林频道",吉林都市
 https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1781733985&key=8a91c382e1a95dc180697f19d257b255
+#EXTINF:-1 tvg-id="吉林都市" tvg-name="吉林都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林都市.png" group-title="☘️吉林频道",吉林都市
+https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1782342739&key=f24eab1f314a91c1f15228d88ca49be2
 #EXTINF:-1 tvg-id="吉林生活" tvg-name="吉林生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林生活.png" group-title="☘️吉林频道",吉林生活
 https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1780530612&key=30b2e8f7de7e26db73a1053d44400585
 #EXTINF:-1 tvg-id="吉林生活" tvg-name="吉林生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林生活.png" group-title="☘️吉林频道",吉林生活
 https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1781129430&key=b031307e06bedee4ca73bcce3e89f90f
 #EXTINF:-1 tvg-id="吉林生活" tvg-name="吉林生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林生活.png" group-title="☘️吉林频道",吉林生活
 https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1781733985&key=5ad06d4d79117f53f0aed86bffb412b0
+#EXTINF:-1 tvg-id="吉林生活" tvg-name="吉林生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林生活.png" group-title="☘️吉林频道",吉林生活
+https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1782342739&key=02539d0ee79762ebd7d0e904a88dfcbc
 #EXTINF:-1 tvg-id="吉林乡村" tvg-name="吉林乡村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林乡村.png" group-title="☘️吉林频道",吉林乡村
 https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1780530612&key=ab23b8d3c940ca6f7b9e6d785fa61df0
 #EXTINF:-1 tvg-id="吉林乡村" tvg-name="吉林乡村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林乡村.png" group-title="☘️吉林频道",吉林乡村
 https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1781129430&key=453fbe20a7ce04bad005c53a7a700a96
 #EXTINF:-1 tvg-id="吉林乡村" tvg-name="吉林乡村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林乡村.png" group-title="☘️吉林频道",吉林乡村
 https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1781733985&key=e550bd2efe0f20a1d1ca40e3b6c10f88
+#EXTINF:-1 tvg-id="吉林乡村" tvg-name="吉林乡村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林乡村.png" group-title="☘️吉林频道",吉林乡村
+https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1782342739&key=627acbaf29dad272b017fda59b643b87
 #EXTINF:-1 tvg-id="长白朝语" tvg-name="长白朝语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/长白朝语.png" group-title="☘️吉林频道",长白朝语
 http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 #EXTINF:-1 tvg-id="珲春新闻综合" tvg-name="珲春新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/珲春新闻综合.png" group-title="☘️吉林频道",珲春新闻综合
@@ -2285,18 +2335,24 @@ https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1780530612&key=1b382d5466c623da3b
 https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1781129430&key=c33c450ba827bcf3e4966aa59fbd10ba
 #EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南都市.png" group-title="☘️云南频道",云南都市
 https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1781733985&key=ce6590cf1a05bd58ec2f156b35cec54a
+#EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南都市.png" group-title="☘️云南频道",云南都市
+https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1782342739&key=c527b98346d6a0bf0348b702cbacf240
 #EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南娱乐.png" group-title="☘️云南频道",云南娱乐
 https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1780530612&key=ffcc1f8331e32d95ebd655416e204b86
 #EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南娱乐.png" group-title="☘️云南频道",云南娱乐
 https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1781129430&key=09ebb5b4a3ffcc26767ce46fa38f8b38
 #EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南娱乐.png" group-title="☘️云南频道",云南娱乐
 https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1781733985&key=89ffd2cec64c05be930edb56d71bee72
+#EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南娱乐.png" group-title="☘️云南频道",云南娱乐
+https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1782342739&key=03c548c7596d721cb926496409198c48
 #EXTINF:-1 tvg-id="云南少儿" tvg-name="云南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南少儿.png" group-title="☘️云南频道",云南少儿
 https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1780530612&key=be7b9cbabcee46cd71f42515ad8e1f4c
 #EXTINF:-1 tvg-id="云南少儿" tvg-name="云南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南少儿.png" group-title="☘️云南频道",云南少儿
 https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1781129430&key=fbb6a101a8c12bceea1ad75d6e051591
 #EXTINF:-1 tvg-id="云南少儿" tvg-name="云南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南少儿.png" group-title="☘️云南频道",云南少儿
 https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1781733985&key=ec3db874766621b46b664764437099f9
+#EXTINF:-1 tvg-id="云南少儿" tvg-name="云南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南少儿.png" group-title="☘️云南频道",云南少儿
+https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1782342739&key=47a442e305202c665ce9bb8c27486fde
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安多卫视.png" group-title="☘️青海频道",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安多卫视.png" group-title="☘️青海频道",安多卫视
@@ -2475,6 +2531,8 @@ https://hls-gateway.vpstv.net/streams/477063.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影.png" group-title="🎬电影频道",纬来电影
 https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
+#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影.png" group-title="🎬电影频道",纬来电影
+https://t.freetv.fun/live/wei-lai-dian-ying.php
 #EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="🎬电影频道",靖天映画
 https://hls-gateway.vpstv.net/streams/476302.m3u8
 #EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="🎬电影频道",靖天映画
@@ -2663,6 +2721,8 @@ https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1780530612&key=9335460391fa30e88c
 https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1781129430&key=c90b21b5a24acff7127077f5ec5f7476
 #EXTINF:-1 tvg-id="江苏体育" tvg-name="江苏体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏体育.png" group-title="🏀体育频道",江苏体育
 https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1781733985&key=600c259ed7a7bc4200c13dffae064737
+#EXTINF:-1 tvg-id="江苏体育" tvg-name="江苏体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏体育.png" group-title="🏀体育频道",江苏体育
+https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1782342739&key=d4b926a668dc4fe66c1c293b0fe31b56
 #EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽综艺体育.png" group-title="🏀体育频道",安徽综艺体育
 https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
 #EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽综艺体育.png" group-title="🏀体育频道",安徽综艺体育
@@ -2709,6 +2769,10 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msi
 https://hls-gateway.vpstv.net/streams/708835.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=d2dba4b593e92dbc673a8390bb9d2e71&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260624062058&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.98.78.225&SecurityKey=20260624062058&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bdd209288857c0e783b42c0f52b73b85&ddCalcu=5b8dvbda32a70ab92258f808c5274cb03e87&sv=10004&ct=android
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260625080236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20260625080236&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c7f914a4df878b36e3fde50f4b996e65&sv=10004&ct=android
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="卡酷动画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷动画.png" group-title="🪁动画频道",卡酷动画
 https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="卡酷动画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷动画.png" group-title="🪁动画频道",卡酷动画
@@ -2801,6 +2865,8 @@ https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1780530612&key=069908c09224027fe5
 https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1781129430&key=b1c3ca323c0a2fbec62f14a71c89cd0e
 #EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳少儿.png" group-title="🪁动画频道",深圳少儿
 https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1781733985&key=ca2cea351e2c9044a28f8f38382e055c
+#EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳少儿.png" group-title="🪁动画频道",深圳少儿
+https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1782342739&key=5c0a0cab311218fa434faf3348510b85
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北少儿科教.png" group-title="🪁动画频道",河北少儿科教
 https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-7.ctv
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北少儿科教.png" group-title="🪁动画频道",河北少儿科教
